@@ -1,3 +1,3 @@
 # learning-git-simple
 
-JHi! Tis is the redmenee file!
+Hi! This is the readmeme file!
